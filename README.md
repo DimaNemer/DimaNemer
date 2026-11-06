@@ -2,14 +2,13 @@
 
 ### Full-Stack Developer
 
-I’m a Full-Stack Developer with hands-on experience building web and mobile applications using React, Next.js, React Native, Expo, Supabase, and PostgreSQL.
+I’m a Full-Stack Developer with hands-on experience building web applications using React, Next.js, Node.js, Expo,Supabase, PostgreSQL and Mongodb.
 
 I enjoy building secure, responsive, and scalable applications, from user interfaces and API integrations to authentication, databases, and real-time features.
 
 ## 💻 Tech Stack
 
 **Frontend:** React • Next.js • HTML5 • CSS3 • SCSS • Tailwind CSS  
-**Mobile:** React Native • Expo  
 **Backend & Databases:** Supabase • PostgreSQL • MongoDB • REST APIs  
 **Languages:** JavaScript • Java • SQL • TypeScript  
 **Tools:** Git • GitHub • Vercel • Postman • Swagger/OpenAPI  
