@@ -40,6 +40,7 @@ Production website developed with **Next.js and Tailwind CSS**.
 ## 📫 Connect With Me
 
 - **LinkedIn:** https://www.linkedin.com/in/dima-nemer/
+- **Portfolio:** https://dimanemer-portfolio.vercel.app/
 - **GitHub:** https://github.com/DimaNemer
 - **Email:** dimanemer2003@gmail.com
 
